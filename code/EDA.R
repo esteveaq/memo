@@ -103,6 +103,3 @@ print(g3)
 ggsave("figures/g1.png")
 ggsave("figures/g2.png")
 ggsave("figures/g3.png")
-
-
-test <- 1
